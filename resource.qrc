@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>save.ico</file>
+        <file>cpp.ico</file>
+        <file>explorer.ico</file>
+        <file>file.ico</file>
+        <file>folder.ico</file>
+        <file>new.ico</file>
+        <file>open.ico</file>
+        <file>text.ico</file>
+        <file>copy.ico</file>
+        <file>paste.ico</file>
+        <file>tree.ico</file>
+        <file>folderC.ico</file>
+        <file>rename.ico</file>
+        <file>dll.ico</file>
+        <file>excel.ico</file>
+        <file>exe.ico</file>
+        <file>movie.ico</file>
+        <file>music.ico</file>
+        <file>photo.ico</file>
+        <file>powerpoint.ico</file>
+        <file>word.ico</file>
+        <file>back.ico</file>
+        <file>bin.ico</file>
+        <file>cut.ico</file>
+    </qresource>
+</RCC>

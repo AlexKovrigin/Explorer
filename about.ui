@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>About</class>
+ <widget class="QDialog" name="About">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-50</y>
+     <width>401</width>
+     <height>311</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Эту программу делал подрастающий программист Шурик&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;под руководством опытного программиста&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Сергея Сергеевича Кондрашова&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Некоторые права защищены&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Создатель: &amp;quot;ЗАО &amp;quot;В Гостях у Шурика&amp;quot;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Издатель &amp;quot;ОАО &amp;quot;Подрастающее Поколение&amp;quot;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Версия 2.1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>260</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
